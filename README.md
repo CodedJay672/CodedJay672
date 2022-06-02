@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @CodedJay672
-- 👀 I’m interested in front and backend programming
-- 🌱 I’m currently learning PHP 
-- 💞️ I’m looking to collaborate on backend programming and webhosting
+- 👋 Hi, I’m Manny (@codedjay672)
+- 👀 I’m interested in front end programming
+- 🌱 I’m currently working on building a career in software engineering
+- 💞️ I’m looking to collaborate with a team of like minds to improve my programming skill
 - 📫 How to reach me: email: emmajoel6456@gmail.com
 
 <!---
