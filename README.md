@@ -19,6 +19,7 @@ Welcome to my GitHub profile! I'm passionate about coding and constantly learnin
 ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
 ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
+![Next](https://img.shields.io/badge/-Next-333?style=flat&logo=next)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
 
@@ -32,7 +33,6 @@ Welcome to my GitHub profile! I'm passionate about coding and constantly learnin
 - [Twitter](https://twitter.com/_iammanny_)
 - [Email](mailto:emmajoel6456@gmail.com)
 
-➡️ [More blog posts...](your-blog-url)
 
 ## 🏆 GitHub Trophies
 
