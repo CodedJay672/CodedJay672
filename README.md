@@ -4,9 +4,9 @@ Welcome to my GitHub profile! I'm passionate about coding and constantly learnin
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **[ReactJs, NextJs, TailwidCSS, TypeScript, and other framworks]**
+- 🌱 I’m currently learning **[OpenAI, Cloud services, ThreeJs, LLMs, and lots more...]**
 - 👯 I’m looking to collaborate on **[Web appliacation development, javascript projects, NodeJs projects]**
-- 🤔 I’m looking for help with **[frontend development best practices, and consistency in growth]**
+- 🤔 I’m looking for help with **[frontend development best practices, React component patterns, and consistency in growth]**
 - 💬 Ask me about **[frontend developmet, NextJs, Reactjs, git and github]**
 - 📫 How to reach me: **[https://www.linkedin.com/in/emmanueljoel672/ on LinkedIn]**
 - ⚡ Fun fact: **[i love to draw and create comics]**
