@@ -1,4 +1,4 @@
-# Hi there, I'm CodedJay672! 👋
+# Hi there, I'm MANNY! 👋
 
 Welcome to my GitHub profile! I'm passionate about coding and constantly learning new technologies. Here you'll find a variety of projects that showcase my skills and interests.
 
